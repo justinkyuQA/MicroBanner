@@ -1,0 +1,2 @@
+[console_scripts]
+microbanner = microbanner.cli:main

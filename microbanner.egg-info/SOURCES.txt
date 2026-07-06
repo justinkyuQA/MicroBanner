@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+microbanner/__init__.py
+microbanner/__main__.py
+microbanner/cli.py
+microbanner/core.py
+microbanner.egg-info/PKG-INFO
+microbanner.egg-info/SOURCES.txt
+microbanner.egg-info/dependency_links.txt
+microbanner.egg-info/entry_points.txt
+microbanner.egg-info/top_level.txt
